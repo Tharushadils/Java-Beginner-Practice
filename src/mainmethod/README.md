@@ -287,21 +287,24 @@ The goal is to learn how small changes in Java syntax can affect:
 More Java beginner topics will be added progressively.
 
 ---
-
 ## 🚀 Next Topic
 
-**Variables & Data Types**
+**Output**
 
 Coming next:
 
 ```text
-Variables
+System.out.print()
 ↓
-Primitive Data Types
+System.out.println()
 ↓
-Reference Types
+print() vs println()
 ↓
-Naming Rules
+New Lines & Escape Sequences
 ↓
-Practical Examples
+Output Formatting
+↓
+Simple Patterns
+↓
+Practice Exercises
 ```
