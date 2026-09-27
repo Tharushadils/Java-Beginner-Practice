@@ -1,8 +1,7 @@
 package mainmethod.legalandinvalid;
 
-public class LegalInvalidMethod01 {
-    public static void main(String args) {
-
+public class LegalInvalidMethod05 {
+    public static void Main(String[] args) {
         System.out.println("Hello World!");
     }
 }
